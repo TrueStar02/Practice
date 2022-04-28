@@ -1,0 +1,9 @@
+push 1
+push 2
+pop 2
+pop 1
+stack is empty!
+stack is empty!
+s1 = s1
+s2 = s1
+s1 is empty: True

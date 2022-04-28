@@ -1,0 +1,26 @@
+cin >> clock1
+>> clock1 ---- 6:18:24
+
+clock2(clock1)
+>> clock1 ---- 6:18:24
+>> clock2 ---- 6:18:24
+
+clock3 = clock1 ++
+clock4 = ++ clock2
+>> clock1 ---- 6:18:25
+>> clock2 ---- 6:18:25
+>> clock3 ---- 6:18:24
+>> clock4 ---- 6:18:25
+
+clock5(11, 45, 14)
+clock6 = clock1 + clock5
+>> clock1 ---- 6:18:25
+>> clock5 ---- 11:45:14
+>> clock6 ---- 18:3:39
+
+clock7()
+clock7 += clock5
+clock7 += clock6
+>> clock5 ---- 11:45:14
+>> clock6 ---- 18:3:39
+>> clock7 ---- 5:48:53

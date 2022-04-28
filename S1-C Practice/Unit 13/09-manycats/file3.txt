@@ -1,0 +1,7 @@
+This is file 3:
+abcdefg hijklmn
+opqrst uvwxyz
+12345 67890
+ABCDEFG HIJKLMN
+OPQRST UVWXYZ
+File 3 ended.

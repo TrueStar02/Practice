@@ -1,0 +1,12 @@
+A={25,32,45}
+B={2,37,92}
+The intersection: C={}
+A={3}
+B={40,43}
+The intersection: C={}
+A={34,42,64,77,98,96}
+B={100}
+The intersection: C={}
+A={11,42,44,55,72,3}
+B={20,52,52,52,52,52,52,52,52,52}
+The intersection: C={}

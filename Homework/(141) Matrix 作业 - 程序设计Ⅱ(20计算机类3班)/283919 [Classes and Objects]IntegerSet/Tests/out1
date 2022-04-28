@@ -1,0 +1,25 @@
+Enter set A:
+Enter an element (-1 to end): Enter an element (-1 to end): Enter an element (-1 to end): Enter an element (-1 to end): Entry complete
+
+Enter set B:
+Enter an element (-1 to end): Enter an element (-1 to end): Enter an element (-1 to end): Enter an element (-1 to end): Enter an element (-1 to end): Entry complete
+
+Union of A and B is:
+{  11  12  23  31  32  33   }
+Intersection of A and B is:
+{  12   }
+Set A is not equal to set B
+
+Inserting 77 into set A...
+Set A is now:
+{  12  23  32  77   }
+
+Deleting 77 from set A...
+Set A is now:
+{  12  23  32   }
+Invalid insert attempted!
+Invalid insert attempted!
+
+Set e is:
+{   1   2   9  25  45  67  99 100   }
+

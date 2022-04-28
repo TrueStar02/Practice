@@ -1,0 +1,17 @@
+Power on
+Local time: Mon Mar  7 09:04:48 2022
+Shortest Path:
+Arad->Sibiu->RimnicuVilcea->Pitesti->Bucharest
+Distance:418
+Shortest Path:
+Fagaras->Sibiu->RimnicuVilcea->Craiova->Dobreta
+Distance:445
+Shortest Path:
+Mehadia->Dobreta->Craiova->RimnicuVilcea->Sibiu
+Distance:421
+Invalid input!
+Shortest Path:
+Neamt->Iasi->Vaslui->Urziceni->Bucharest->Pitesti->RimnicuVilcea->Sibiu->Arad->Zerind
+Distance:899
+Power off
+Local time: Mon Mar  7 09:05:57 2022

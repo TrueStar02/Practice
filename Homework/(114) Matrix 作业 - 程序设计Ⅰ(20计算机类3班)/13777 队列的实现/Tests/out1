@@ -1,0 +1,11 @@
+Push 1 successfully!
+Push 2 successfully!
+Curr queue is: 1 2
+Size of queue is 2
+Pop 1 successfully!
+Curr queue is: 2
+Queue is not empty!
+Pop 2 successfully!
+Pop failed!
+Queue is empty!
+Empty queue

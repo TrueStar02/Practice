@@ -1,0 +1,35 @@
+i=1000
+addr_ia=id(i)
+i=1200
+addr_ib=id(i)
+print(addr_ia==addr_ib)
+f=0.5
+addr_fa=id(f)
+f=0.6
+addr_fb=id(f)
+print(addr_fa==addr_fb)
+s="F**k CCF"
+addr_sa=id(s)
+s="Fuck CCF"
+addr_sb=id(s)
+print(addr_sa==addr_sb)
+b=True
+addr_ba=id(b)
+b=False
+addr_bb=id(b)
+print(addr_ba==addr_bb)
+l=[1,2,3,4,5]
+addr_la=id(l)
+l[4]=0
+addr_lb=id(l)
+print(addr_la==addr_lb)
+st={1,1,2,2,3,3,4,4,5,5}
+addr_sta=id(st)
+st.add(6)
+addr_stb=id(st)
+print(addr_sta==addr_stb)
+d={1:'LuoJun'}
+addr_da=id(d)
+d[2]='GaoSong'
+addr_db=id(d)
+print(addr_da==addr_db)

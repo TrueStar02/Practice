@@ -1,0 +1,15 @@
+A={}
+B={10}
+The intersection: C={}
+A={10}
+B={}
+The intersection: C={}
+A={12}
+B={2,12}
+The intersection: C={12}
+A={2,3}
+B={3}
+The intersection: C={3}
+A={2,3}
+B={4}
+The intersection: C={}

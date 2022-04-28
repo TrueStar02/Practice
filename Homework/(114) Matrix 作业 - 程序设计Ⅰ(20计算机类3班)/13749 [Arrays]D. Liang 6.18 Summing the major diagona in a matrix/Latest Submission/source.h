@@ -1,0 +1,1 @@
+int sumMajorDiagona(int matrix[4][4]);

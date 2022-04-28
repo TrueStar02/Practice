@@ -1,0 +1,48 @@
+This is the target file.
+ABCDEFG HIJKLMN
+OPQRST UVWXYZ
+12345 67890
+abcdefg hijklmn
+opqrst uvwxyz
+Target file ends.
+
+This is the source file 1.
+ABCDEFG HIJKLMN
+OPQRST UVWXYZ
+12345 67890
+abcdefg hijklmn
+opqrst uvwxyz
+Souece file 1 ends.
+
+This is the source file 2.
+ABCDEFG HIJKLMN
+OPQRST UVWXYZ
+12345 67890
+abcdefg hijklmn
+opqrst uvwxyz
+Souece file 2 ends.
+
+This is the source file 3.
+ABCDEFG HIJKLMN
+OPQRST UVWXYZ
+12345 67890
+abcdefg hijklmn
+opqrst uvwxyz
+Souece file 3 ends.
+
+This is the source file 4.
+ABCDEFG HIJKLMN
+OPQRST UVWXYZ
+12345 67890
+abcdefg hijklmn
+opqrst uvwxyz
+Souece file 4 ends.
+
+This is the source file 5.
+ABCDEFG HIJKLMN
+OPQRST UVWXYZ
+12345 67890
+abcdefg hijklmn
+opqrst uvwxyz
+Souece file 5 ends.
+

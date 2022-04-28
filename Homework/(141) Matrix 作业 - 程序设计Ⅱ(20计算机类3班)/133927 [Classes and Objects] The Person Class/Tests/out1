@@ -1,0 +1,19 @@
+number of Person objects: 1
+number of Person objects: 2
+After creating person1 and person2
+	person1 id: 111
+	person1 birth year: 1970
+	person2 id: 111
+	person2 birth year: 1970
+After modifying person2's birthDate
+	person1 id: 111
+	person1 birth year: 1970
+	person2 id: 111
+	person2 birth year: 1963
+0
+number of Person objects: 3
+number of Person objects: 4
+0
+number of Person objects: 5
+number of Person objects: 4
+number of Person objects: 3
